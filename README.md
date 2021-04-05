@@ -36,6 +36,11 @@ If you come across guitar covers on YouTube, you'll see people commenting asking
 ### Mental model for large software systems
 Reading and understanding a codebase is a difficult task and it might take months for that. Write a software to output an UML graph which is a mental model to understand and conceptualize large software systems. First versions try to output a static UML graph, but it can be made dynamic later. Requirements: Object Oriented and Modular programming concepts.
 
+## Social media
+
+### Wrapper social media app
+Would be great to have a wrapper app that shows posts in all the platforms you're in which could skip muted words, sponsored posts, repetitive posts, recommendations, etc. and shows just the ones you follow. Further, if it could have a plugin store like vscode does where developers can write plugins which can be integrated to the app.
+
 > Contributing
 > ------------
 > If you feel like adding your ideas to the list, go ahead and send a PR.
